@@ -37,16 +37,18 @@
     "other-influential-organizations.html",
     "influential-persons.html",
     "the-web-of-tomorrow.html",
-    "web-technologies-in-adoption.html",
-    "emerging-standards.html",
-    "rest-and-restful-apis.html",
-    "web-applications.html",
-    "device-apis.html",
-    "browser-graphics-and-ui.html",
-    "responsive-uis.html",
-    "service-orientation.html",
+    [
+        "emerging-standards.html",
+        "rest-and-restful-apis.html",
+        "web-applications.html",
+        "device-apis.html",
+        "browser-graphics-and-ui.html",
+        "responsive-uis.html",
+        "service-orientation.html"
+    ],
     "html5-platforms.html",
     "the-mobile-web.html",
     "the-internet-of-things.html",
-    "the-web-of-data.html"
+    "the-web-of-data.html",
+    "references.html"
 ]
